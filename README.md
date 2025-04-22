@@ -1,3 +1,6 @@
 # Hi my name is Ryder.
 
-<iframe src="https://giphy.com/embed/dXi0qrwYhBZXdryEN1" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bbcamerica-wonderstruck-blue-planet-now-bpn102-dXi0qrwYhBZXdryEN1">via GIPHY</a></p>
+
+<p align="center">
+  <img width="250" src="[https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE2NHluYTNocmFvbHNkZ2IxajU0YWI4cnIzbWZ3OHN0MHJ1NGhqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UWhe73bSwu8XR6xdem/giphy.gif)">
+</p>
